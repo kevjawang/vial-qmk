@@ -9,7 +9,7 @@
         "device_version": "1.0.0"
     },
     "features": {
-        "oled": true
+        "oled": false
     },
     "matrix_pins": {
         "cols": ["F6", "F7", "B1", "B3", "B2", "B6"],
