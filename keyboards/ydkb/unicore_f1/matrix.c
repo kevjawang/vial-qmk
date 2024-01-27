@@ -35,7 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "rgblight.h"
 
 #undef DOUBLE_CLICK_FIX_DELAY
-#define DOUBLE_CLICK_FIX_DELAY 15
+#define DOUBLE_CLICK_FIX_DELAY 2
 
 extern debug_config_t debug_config;
 
