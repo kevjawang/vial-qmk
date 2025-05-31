@@ -5,8 +5,8 @@
 
 enum layers {
     _QWERTY,
-    _RAISE,
     _LOWER,
+    _RAISE,
     _ADJUST
 };
 

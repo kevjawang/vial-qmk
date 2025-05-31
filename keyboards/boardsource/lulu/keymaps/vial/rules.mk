@@ -2,6 +2,7 @@ VIA_ENABLE = yes
 VIAL_ENABLE = yes
 
 VIALRGB_ENABLE = yes
+NKRO_ENABLE = yes
 
 ifeq ($(strip $(CONVERT_TO)), )
     QMK_SETTINGS = no
